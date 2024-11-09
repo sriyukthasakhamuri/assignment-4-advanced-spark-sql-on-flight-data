@@ -1,0 +1,41 @@
+CarrierCode,CarrierName,time_of_day,avg_departure_delay,rank
+BA,British Airways,Afternoon,2915.397489539749,1
+UA,United Airlines,Afternoon,2896.0,2
+SQ,Singapore Airlines,Afternoon,2873.397129186603,3
+SW,Southwest Airlines,Afternoon,2847.733333333333,4
+EK,Emirates,Afternoon,2823.3179723502303,5
+AF,Air France,Afternoon,2655.0607287449393,6
+DL,Delta Airlines,Afternoon,2544.9504950495048,7
+AA,American Airlines,Afternoon,2527.936507936508,8
+QF,Qantas,Afternoon,2457.5103734439836,9
+LH,Lufthansa,Afternoon,2289.8630136986303,10
+AF,Air France,Evening,3108.0,1
+LH,Lufthansa,Evening,3042.3529411764707,2
+AA,American Airlines,Evening,2851.737451737452,3
+BA,British Airways,Evening,2723.7837837837837,4
+SW,Southwest Airlines,Evening,2696.6666666666665,5
+SQ,Singapore Airlines,Evening,2685.9911894273127,6
+EK,Emirates,Evening,2679.1525423728813,7
+UA,United Airlines,Evening,2620.353982300885,8
+DL,Delta Airlines,Evening,2583.716814159292,9
+QF,Qantas,Evening,2442.0,10
+SQ,Singapore Airlines,Morning,2924.549356223176,1
+EK,Emirates,Morning,2843.347280334728,2
+UA,United Airlines,Morning,2777.8536585365855,3
+SW,Southwest Airlines,Morning,2702.553191489362,4
+LH,Lufthansa,Morning,2579.7272727272725,5
+AF,Air France,Morning,2548.695652173913,6
+BA,British Airways,Morning,2543.187250996016,7
+QF,Qantas,Morning,2514.8878923766815,8
+DL,Delta Airlines,Morning,2490.521739130435,9
+AA,American Airlines,Morning,2282.608695652174,10
+SW,Southwest Airlines,Night,2940.99173553719,1
+BA,British Airways,Night,2862.3387096774195,2
+AF,Air France,Night,2831.0526315789475,3
+LH,Lufthansa,Night,2782.777777777778,4
+AA,American Airlines,Night,2750.0,5
+UA,United Airlines,Night,2703.930131004367,6
+QF,Qantas,Night,2639.7073170731705,7
+EK,Emirates,Night,2588.294930875576,8
+DL,Delta Airlines,Night,2520.266666666667,9
+SQ,Singapore Airlines,Night,2499.8230088495575,10

@@ -1,0 +1,91 @@
+Origin_AirportName,Origin_City,Destination_AirportName,Destination_City,cancellation_rate,rank
+Dallas/Fort Worth International,Dallas,Los Angeles International,Los Angeles,0.21904761904761905,1
+Miami International,Miami,Dallas/Fort Worth International,Dallas,0.18095238095238095,2
+Logan International,Boston,San Francisco International,San Francisco,0.17857142857142858,3
+John F. Kennedy International,New York,Dallas/Fort Worth International,Dallas,0.16822429906542055,4
+Logan International,Boston,Hartsfield-Jackson Atlanta International,Atlanta,0.16494845360824742,5
+Hartsfield-Jackson Atlanta International,Atlanta,Miami International,Miami,0.15254237288135594,6
+Hartsfield-Jackson Atlanta International,Atlanta,Seattle-Tacoma International,Seattle,0.15254237288135594,7
+O'Hare International,Chicago,Denver International,Denver,0.14814814814814814,8
+San Francisco International,San Francisco,Dallas/Fort Worth International,Dallas,0.14184397163120568,9
+Miami International,Miami,John F. Kennedy International,New York,0.1388888888888889,10
+O'Hare International,Chicago,Los Angeles International,Los Angeles,0.13709677419354838,11
+San Francisco International,San Francisco,Los Angeles International,Los Angeles,0.13402061855670103,12
+Dallas/Fort Worth International,Dallas,Miami International,Miami,0.12949640287769784,13
+Miami International,Miami,O'Hare International,Chicago,0.1276595744680851,14
+Denver International,Denver,John F. Kennedy International,New York,0.12745098039215685,15
+O'Hare International,Chicago,Miami International,Miami,0.12037037037037036,16
+San Francisco International,San Francisco,John F. Kennedy International,New York,0.12,17
+Denver International,Denver,Los Angeles International,Los Angeles,0.11475409836065574,18
+John F. Kennedy International,New York,Logan International,Boston,0.11428571428571428,19
+Denver International,Denver,Logan International,Boston,0.11428571428571428,20
+Logan International,Boston,Miami International,Miami,0.11403508771929824,21
+Hartsfield-Jackson Atlanta International,Atlanta,Denver International,Denver,0.11304347826086956,22
+John F. Kennedy International,New York,Los Angeles International,Los Angeles,0.1111111111111111,23
+Hartsfield-Jackson Atlanta International,Atlanta,John F. Kennedy International,New York,0.10909090909090909,24
+San Francisco International,San Francisco,Seattle-Tacoma International,Seattle,0.10909090909090909,25
+Hartsfield-Jackson Atlanta International,Atlanta,Los Angeles International,Los Angeles,0.10909090909090909,26
+Dallas/Fort Worth International,Dallas,Logan International,Boston,0.10891089108910891,27
+O'Hare International,Chicago,Logan International,Boston,0.10833333333333334,28
+Logan International,Boston,Los Angeles International,Los Angeles,0.10784313725490197,29
+Seattle-Tacoma International,Seattle,O'Hare International,Chicago,0.10743801652892562,30
+Los Angeles International,Los Angeles,San Francisco International,San Francisco,0.10619469026548672,31
+Logan International,Boston,Denver International,Denver,0.10483870967741936,32
+John F. Kennedy International,New York,Denver International,Denver,0.10483870967741936,33
+Seattle-Tacoma International,Seattle,Dallas/Fort Worth International,Dallas,0.104,34
+Hartsfield-Jackson Atlanta International,Atlanta,O'Hare International,Chicago,0.102803738317757,35
+Denver International,Denver,Miami International,Miami,0.102803738317757,36
+Los Angeles International,Los Angeles,Seattle-Tacoma International,Seattle,0.10144927536231885,37
+Miami International,Miami,Hartsfield-Jackson Atlanta International,Atlanta,0.10101010101010101,38
+Seattle-Tacoma International,Seattle,Logan International,Boston,0.10101010101010101,39
+Logan International,Boston,Seattle-Tacoma International,Seattle,0.10091743119266056,40
+John F. Kennedy International,New York,O'Hare International,Chicago,0.1,41
+Miami International,Miami,San Francisco International,San Francisco,0.1,42
+Miami International,Miami,Seattle-Tacoma International,Seattle,0.09900990099009901,43
+Miami International,Miami,Logan International,Boston,0.0975609756097561,44
+San Francisco International,San Francisco,Logan International,Boston,0.0970873786407767,45
+San Francisco International,San Francisco,Denver International,Denver,0.09615384615384616,46
+Seattle-Tacoma International,Seattle,San Francisco International,San Francisco,0.09433962264150944,47
+Logan International,Boston,John F. Kennedy International,New York,0.09401709401709402,48
+San Francisco International,San Francisco,Miami International,Miami,0.09401709401709402,49
+Logan International,Boston,O'Hare International,Chicago,0.09302325581395349,50
+Los Angeles International,Los Angeles,John F. Kennedy International,New York,0.09259259259259259,51
+Los Angeles International,Los Angeles,Dallas/Fort Worth International,Dallas,0.09243697478991597,52
+Dallas/Fort Worth International,Dallas,Denver International,Denver,0.09183673469387756,53
+Hartsfield-Jackson Atlanta International,Atlanta,Logan International,Boston,0.09090909090909091,54
+Los Angeles International,Los Angeles,Logan International,Boston,0.09090909090909091,55
+Hartsfield-Jackson Atlanta International,Atlanta,San Francisco International,San Francisco,0.09009009009009009,56
+Seattle-Tacoma International,Seattle,Los Angeles International,Los Angeles,0.08870967741935484,57
+Los Angeles International,Los Angeles,Miami International,Miami,0.08823529411764706,58
+Miami International,Miami,Los Angeles International,Los Angeles,0.08823529411764706,59
+Seattle-Tacoma International,Seattle,Denver International,Denver,0.088,60
+Denver International,Denver,Seattle-Tacoma International,Seattle,0.08737864077669903,61
+Seattle-Tacoma International,Seattle,Miami International,Miami,0.08547008547008547,62
+Los Angeles International,Los Angeles,Hartsfield-Jackson Atlanta International,Atlanta,0.0851063829787234,63
+O'Hare International,Chicago,Hartsfield-Jackson Atlanta International,Atlanta,0.08421052631578947,64
+Seattle-Tacoma International,Seattle,John F. Kennedy International,New York,0.08396946564885496,65
+John F. Kennedy International,New York,Seattle-Tacoma International,Seattle,0.08264462809917356,66
+Denver International,Denver,Dallas/Fort Worth International,Dallas,0.08130081300813008,67
+John F. Kennedy International,New York,Miami International,Miami,0.08064516129032258,68
+John F. Kennedy International,New York,Hartsfield-Jackson Atlanta International,Atlanta,0.08035714285714286,69
+O'Hare International,Chicago,Seattle-Tacoma International,Seattle,0.07964601769911504,70
+Logan International,Boston,Dallas/Fort Worth International,Dallas,0.0761904761904762,71
+Denver International,Denver,Hartsfield-Jackson Atlanta International,Atlanta,0.0761904761904762,72
+Hartsfield-Jackson Atlanta International,Atlanta,Dallas/Fort Worth International,Dallas,0.07608695652173914,73
+San Francisco International,San Francisco,O'Hare International,Chicago,0.07377049180327869,74
+Miami International,Miami,Denver International,Denver,0.07317073170731707,75
+Denver International,Denver,San Francisco International,San Francisco,0.07258064516129033,76
+San Francisco International,San Francisco,Hartsfield-Jackson Atlanta International,Atlanta,0.072,77
+O'Hare International,Chicago,Dallas/Fort Worth International,Dallas,0.07142857142857142,78
+Los Angeles International,Los Angeles,O'Hare International,Chicago,0.07142857142857142,79
+Seattle-Tacoma International,Seattle,Hartsfield-Jackson Atlanta International,Atlanta,0.0707070707070707,80
+O'Hare International,Chicago,San Francisco International,San Francisco,0.06796116504854369,81
+Los Angeles International,Los Angeles,Denver International,Denver,0.06521739130434782,82
+O'Hare International,Chicago,John F. Kennedy International,New York,0.06306306306306306,83
+Dallas/Fort Worth International,Dallas,O'Hare International,Chicago,0.06140350877192982,84
+Denver International,Denver,O'Hare International,Chicago,0.06086956521739131,85
+John F. Kennedy International,New York,San Francisco International,San Francisco,0.0603448275862069,86
+Dallas/Fort Worth International,Dallas,Seattle-Tacoma International,Seattle,0.04424778761061947,87
+Dallas/Fort Worth International,Dallas,Hartsfield-Jackson Atlanta International,Atlanta,0.04395604395604396,88
+Dallas/Fort Worth International,Dallas,San Francisco International,San Francisco,0.043478260869565216,89
+Dallas/Fort Worth International,Dallas,John F. Kennedy International,New York,0.0380952380952381,90

@@ -49,8 +49,7 @@ def task1_largest_discrepancy(flights_df, carriers_df):
     )
 
     # Show the result as a table
-    largest_discrepancy.show()
-
+    largest_discrepancy.write.csv(task1_output, header=True, mode="overwrite")
 # ------------------------
 # Task 2: Most Consistently On-Time Airlines Using Standard Deviation
 # ------------------------
@@ -80,7 +79,7 @@ def task2_consistent_airlines(flights_df, carriers_df):
     )
 
     # Show the result as a table
-    consistent_airlines.show()
+    consistent_airlines.write.csv(task2_output, header=True, mode="overwrite")
 
 # ------------------------
 # Task 3: Origin-Destination Pairs with the Highest Percentage of Canceled Flights
@@ -127,7 +126,7 @@ def task3_canceled_routes(flights_df, airports_df):
     )
 
     # Show the result as a table
-    canceled_routes_with_rank.show()
+    canceled_routes_with_rank.write.csv(task3_output, header=True, mode="overwrite")
 
 # ------------------------
 # Task 4: Carrier Performance Based on Time of Day
@@ -170,7 +169,7 @@ def task4_carrier_performance_time_of_day(flights_df, carriers_df):
     )
 
     # Show the result as a table
-    carrier_performance_with_rank.show()
+    carrier_performance_with_rank.write.csv(task4_output, header=True, mode="overwrite")
 
 # ------------------------
 # Call the functions for each task
